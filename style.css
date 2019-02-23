@@ -1,0 +1,16 @@
+body {
+     margin: 0 auto;
+     max-width: 50em;
+     padding: 4em 1em;
+     font-family: "Helvetica", "Arial", sans-serif;
+     line-height: 1.5;
+     color: #000;
+     background-color: #f2f2f9;
+     background-image: url(w1.jpg);
+     background-size: contain;
+    }
+
+
+  h1, h2, b, p, li, a{
+       color: white;
+   }
